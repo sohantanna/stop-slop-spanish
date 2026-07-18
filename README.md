@@ -4,6 +4,8 @@ Una skill para quitar los rasgos de IA de los textos en español, con cobertura 
 
 > Adaptación al español de [**Stop Slop**](https://github.com/hardikpandya/stop-slop), de [Hardik Pandya](https://hvpandya.com).
 
+![Basta de Relleno — Nueva skill de Claude: elimina el relleno de IA de tus textos](assets/hero-es.png)
+
 ---
 
 ## 🇪🇸 Español
@@ -84,6 +86,8 @@ MIT. Úsalo con libertad, compártelo sin límites. Ver [LICENSE](LICENSE).
 ---
 
 ## 🇬🇧 English
+
+![Basta de Relleno — New Claude skill: remove AI slop from your Spanish writing](assets/hero-en.png)
 
 **Basta de Relleno** ("Enough with the filler") is a skill for removing AI tells from Spanish-language prose, with coverage of every regional variety of the language.
 
