@@ -1,4 +1,4 @@
-# Basta de Relleno
+# Stop Slop Spanish / Basta de Relleno
 
 Una skill para quitar los rasgos de IA de los textos en español, con cobertura de todas las variedades del idioma.
 
